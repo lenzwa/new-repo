@@ -1,0 +1,11 @@
+*{
+	margin: 0px;
+	font-family: 'Courier New', Courier, monospace;
+}
+.container{
+	display: block;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 100%;
+}
